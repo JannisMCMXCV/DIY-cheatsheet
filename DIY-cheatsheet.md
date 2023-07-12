@@ -14,4 +14,4 @@ Bei Terassenbelägen aus Holz Bildet sich Stunässe an Stellen, wo Holz auf Holz
 * Abstandhalter (auch Distancer oder Spacer) zwischen Unterkonstruktion und Belag Brettern Verwenden
 * Bretter so anbringen, dass der Kern nach oben zeigt (innere Jahresringe nach oben)
   * &rarr; Wenn Holz arbeitet, verzeiht es soch so, dass nach oben wölbt &rarr; wasser kann abfließen.
-  * (andersherum bilden wülbt es sich nach unten, sadass Wasser darauf stehen bleibt) 
+  * (andersherum bilden wölbt es sich nach unten, sadass Wasser darauf stehen bleibt) 
